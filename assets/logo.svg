@@ -1,0 +1,21 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="349" height="349" viewBox="0 0 349 349">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #0069c2;
+      }
+
+      .cls-2 {
+        fill: #5fb6ff;
+      }
+
+      .cls-3 {
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="88" y="88" width="261" height="261"/>
+  <path class="cls-2" d="M32,0H261a0,0,0,0,1,0,0V261a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V32A32,32,0,0,1,32,0Z"/>
+  <rect class="cls-3" x="88" y="88" width="261" height="261"/>
+</svg>
